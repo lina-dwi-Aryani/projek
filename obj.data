@@ -1,0 +1,5 @@
+classes= 3
+train  = /content/Shoes-Detection/train.txt
+valid  = /content/Shoes-Detection/valid.txt
+names = /content/Shoes-Detection/obj.names
+backup = backup/

@@ -1,0 +1,11 @@
+/content/Shoes-Detection/obj/0001.jpg
+/content/Shoes-Detection/obj/0002.jpg
+/content/Shoes-Detection/obj/0003.jpg
+/content/Shoes-Detection/obj/0004.jpg
+/content/Shoes-Detection/obj/0005.jpg
+/content/Shoes-Detection/obj/0006.jpg
+/content/Shoes-Detection/obj/0007.jpg
+/content/Shoes-Detection/obj/0008.jpg
+/content/Shoes-Detection/obj/0009.jpg
+/content/Shoes-Detection/obj/0010.jpg
+/content/Shoes-Detection/obj/0011.jpg
